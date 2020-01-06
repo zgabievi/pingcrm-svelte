@@ -1,4 +1,4 @@
-# Ping CRM React
+# Ping CRM Svelte
 
 A demo application to illustrate how [Inertia.js](https://inertiajs.com/) works with [Laravel](https://laravel.com/) and [Svelte](https://svelte.dev/).
 
