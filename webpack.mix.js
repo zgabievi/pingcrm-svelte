@@ -34,7 +34,7 @@ mix
                     purgecss({
                         content: [
                             './resources/views/**/*.blade.php',
-                            './resources/js/**/*.js'
+                            './resources/js/**/*.svelte'
                         ],
                         defaultExtractor: content =>
                             content.match(/[\w-/:.]+(?<!:)/g) || [],
