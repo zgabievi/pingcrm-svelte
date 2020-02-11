@@ -31,7 +31,7 @@
     function handleChange({ target: { name, value } }) {
         values = {
             ...values,
-            [key]: value
+            [name]: value
         };
     }
 
